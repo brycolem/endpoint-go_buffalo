@@ -1,6 +1,6 @@
 module go_buffalo
 
-go 1.22.2
+go 1.22
 
 require (
 	github.com/gobuffalo/buffalo v1.1.0
@@ -12,7 +12,6 @@ require (
 	github.com/gobuffalo/suite/v4 v4.0.4
 	github.com/gobuffalo/x v0.1.0
 	github.com/rs/cors v1.11.1
-	github.com/unrolled/secure v1.16.0
 )
 
 require (
